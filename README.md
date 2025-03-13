@@ -2,7 +2,7 @@ Shoe Shop - React & Tailwind CSS
 
 🛍️ Overview
 
-Shoe Shop is a responsive e-commerce website built using React and Tailwind CSS. It provides a modern and user-friendly interface for searching and purchasing shoes.
+Shoe Shop is a responsive e-commerce website built using React and Tailwind CSS. It provides a modern and user-friendly interface for searching and purchasing shoes real life scenario.
 
 ✨ Features
 
